@@ -33,7 +33,7 @@ author: David Sulz
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: demo-metadata 
+metadata: collectionbuilder_miyagiimmigrationtocanada 
 
 ##########
 # GOOGLE SERVICES [optional!]
